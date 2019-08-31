@@ -1,0 +1,3 @@
+Pair Number	Protein	Symbol	MicrobatProtein	PrairieVoleProtein	Ka/Ks	P-Value
+6	host cell factor C1	HCFC1	ENSMLUP00000012995	ENSMOCP00000020826	50.0	0.060877
+80	HPS4 biogenesis of lysosomal organelles complex 3 subunit 2	HPS4	ENSMLUP00000020721	ENSMOCP00000020554	48.4754	0.0498876

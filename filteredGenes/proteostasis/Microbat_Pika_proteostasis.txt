@@ -1,0 +1,3 @@
+Pair Number	Protein	Symbol	MicrobatProtein	PikaProtein	Ka/Ks	P-Value
+60	HPS4 biogenesis of lysosomal organelles complex 3 subunit 2	HPS4	ENSMLUP00000020721	ENSOPRP00000012500	11.0085	0.0340172
+84	profilin 2	PFN2	ENSMLUP00000016899	ENSOPRP00000009997	50.0	0.09478330000000001

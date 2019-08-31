@@ -1,0 +1,21 @@
+	Protein	Symbol	Gene Prefix
+81	BCL2 associated X, apoptosis regulator	BAX	BAX
+122	CD274 molecule	CD274	CD
+121	CD226 molecule	CD226	CD
+118	CD74 molecule	CD74	CD
+128	CD3e molecule	CD3E	CD
+120	cytotoxic T-lymphocyte associated protein 4	CTLA4	CTLA
+83	cytotoxic T-lymphocyte associated protein 4	CTLA4	CTLA
+134	ER degradation enhancing alpha-mannosidase like protein 1	EDEM1	EDEM
+56	GATA	GATA1	GATA
+110	G protein-coupled receptor 17	GPR17	GPR
+119	insulin like growth factor binding protein like 1	IGFBPL1	IGFBPL
+127	interleukin 15	IL15	IL
+49	interleukin 10	IL10	IL
+125	interleukin 1 beta	IL1B	IL
+99	POU class 4 homeobox 2	POU4F2	POU
+62	RAS guanyl releasing protein 1	RASGRP1	RASGRP
+104	serpin family E member 2	SERPINE2	SERPINE
+93	solute carrier family 6 member 4	SLC6A4	SLC
+144	solute carrier family 30 member 10	SLC30A10	SLC
+117	suppressor of cytokine signaling 2	SOCS2	SOCS

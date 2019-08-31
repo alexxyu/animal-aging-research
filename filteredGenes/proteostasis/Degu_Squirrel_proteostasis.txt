@@ -1,0 +1,2 @@
+Pair Number	Protein	Symbol	DeguProtein	SquirrelProtein	Ka/Ks	P-Value
+120	inhibitor of DNA binding 1, HLH protein	ID1	ENSODEP00000017091	ENSSTOP00000006817	48.1013	0.0402501

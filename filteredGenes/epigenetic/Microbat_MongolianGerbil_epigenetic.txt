@@ -1,0 +1,4 @@
+Pair Number	Protein	Symbol	MicrobatProtein	MongolianGerbilProtein	Ka/Ks	P-Value
+127	RB binding protein 5, histone lysine methyltransferase complex subunit	RBBP5	ENSMLUP00000006513	ENSMUGP00000025777	4.78227	0.0143776
+258	INO80 complex subunit E	INO80E	ENSMLUP00000008079	ENSMUGP00000014290	50.0	0.03880019999999999
+279	coordinator of PRMT5 and differentiation stimulator	COPRS	ENSMLUP00000014962	ENSMUGP00000020479	40.0048	0.09778049999999999

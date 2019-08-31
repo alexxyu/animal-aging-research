@@ -1,0 +1,3 @@
+Pair Number	Protein	Symbol	MicrobatProtein	PikaProtein	Ka/Ks	P-Value
+76	bromo adjacent homology domain containing 1	BAHD1	ENSMLUP00000016027	ENSOPRP00000010762	48.7558	0.0363828
+191	acidic nuclear phosphoprotein 32 family member E	ANP32E	ENSMLUP00000012439	ENSOPRP00000009183	50.0	0.0666462

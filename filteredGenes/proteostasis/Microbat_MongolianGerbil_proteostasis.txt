@@ -1,0 +1,3 @@
+Pair Number	Protein	Symbol	MicrobatProtein	MongolianGerbilProtein	Ka/Ks	P-Value
+37	F-box and WD repeat domain containing 11	FBXW11	ENSMLUP00000005761	ENSMUGP00000007571	2.57608	0.0607235
+81	HPS4 biogenesis of lysosomal organelles complex 3 subunit 2	HPS4	ENSMLUP00000020721	ENSMUGP00000016194	22.0681	0.060321900000000005

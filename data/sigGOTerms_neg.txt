@@ -1,0 +1,52 @@
+	GO ID	GO Definition	Median Gene #	Spearman Coef	P-Value
+0	GO:0019236	response to pheromone	3.0	-0.5675828047921071	5.870776716802302e-05
+1	GO:0019919	peptidyl-arginine methylation, to asymmetrical-dimethyl arginine	3.0	-0.5267089499647638	0.00023984075932144766
+2	GO:0016863	intramolecular oxidoreductase activity, transposing C=C bonds	5.0	-0.5238380495869948	0.0002630111335372486
+3	GO:0097254	renal tubular secretion	1.0	-0.5169531377305866	0.00032702739046950425
+4	GO:0001594	trace-amine receptor activity	7.0	-0.5136011275546161	0.0003630137374509883
+5	GO:0000778	condensed nuclear chromosome kinetochore	7.0	-0.5130373502466525	0.0003694049907206111
+6	GO:0055015	ventricular cardiac muscle cell development	8.0	-0.4973202929194546	0.0005937713249200407
+7	GO:0031642	negative regulation of myelination	5.0	-0.4952783650458068	0.000630489931854308
+8	GO:0010623	programmed cell death involved in cell development	9.0	-0.4925289025534917	0.0006831431849470412
+9	GO:0004499	N,N-dimethylaniline monooxygenase activity	7.0	-0.4921244585316809	0.0006912119096379359
+10	GO:0005391	sodium:potassium-exchanging ATPase activity	6.0	-0.4885130373502466	0.000767131090546577
+11	GO:0035247	peptidyl-arginine omega-N-methylation	5.0	-0.4762508809020437	0.001083670669528413
+12	GO:0008469	histone-arginine N-methyltransferase activity	5.0	-0.4711768851303736	0.0012455799816581054
+13	GO:0004767	sphingomyelin phosphodiesterase activity	6.0	-0.468092603976432	0.0013541999068617293
+14	GO:0035246	peptidyl-arginine N-methylation	8.0	-0.4624383368569415	0.0015753705793297645
+15	GO:0005165	neurotrophin receptor binding	7.0	-0.4592832731277337	0.0017122277163818536
+16	GO:0035234	ectopic germ cell programmed cell death	4.5	-0.4592070555874488	0.0017156601988994994
+17	GO:0036376	sodium ion export across plasma membrane	6.0	-0.4560958421423538	0.001861083328164102
+18	GO:0016274	protein-arginine N-methyltransferase activity	9.0	-0.4553911205073995	0.0018955002007385129
+19	GO:0047372	acylglycerol lipase activity	6.0	-0.44885302540287497	0.0022426448157035444
+20	GO:0042834	peptidoglycan binding	7.0	-0.4463706835799858	0.0023884653183106684
+21	GO:0010248	establishment or maintenance of transmembrane electrochemical gradient	7.0	-0.4451021846370683	0.0024661600125526154
+22	GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	17.0	-0.44186046511627897	0.0026749223545063827
+23	GO:0099626	voltage-gated calcium channel activity involved in regulation of presynaptic cytosolic calcium levels	5.0	-0.4406767986133195	0.002754938809815437
+24	GO:0008556	potassium transmembrane transporter activity, phosphorylative mechanism	8.0	-0.4405919661733615	0.002760753582602629
+25	GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	23.5	-0.4405919661733615	0.002760753582602629
+26	GO:0061626	pharyngeal arch artery morphogenesis	6.0	-0.4402896282981774	0.0027815650263870147
+27	GO:0007195	adenylate cyclase-inhibiting dopamine receptor signaling pathway	5.0	-0.43771803121012026	0.002964235171857523
+28	GO:0038180	nerve growth factor signaling pathway	4.0	-0.43594080338266383	0.003096562306556639
+29	GO:0055012	ventricular cardiac muscle cell differentiation	13.0	-0.4316323696676564	0.003439110609176364
+30	GO:0022028	tangential migration from the subventricular zone to the olfactory bulb	6.0	-0.43143058491895697	0.003455937929373932
+31	GO:0010459	negative regulation of heart rate	5.0	-0.4304439746300211	0.003539257460298293
+32	GO:0018216	peptidyl-arginine methylation	9.5	-0.4300211416490486	0.003575501426022872
+33	GO:0006525	arginine metabolic process	12.0	-0.4287526427061311	0.003686192242957164
+34	GO:0006207	'de novo' pyrimidine nucleobase biosynthetic process	6.0	-0.4285563271274741	0.0037035884880442455
+35	GO:0017069	snRNA binding	21.0	-0.4276250880902044	0.003787092193602858
+36	GO:0019369	arachidonic acid metabolic process	11.0	-0.4274841437632135	0.0037998731515251865
+37	GO:0004415	hyalurononglucosaminidase activity	8.0	-0.4268799774473183	0.003855088340855549
+38	GO:0097296	activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	1.0	-0.4265169013628406	0.0038886068413305983
+39	GO:0019883	antigen processing and presentation of endogenous antigen	8.5	-0.4264975334742776	0.0038904019913341406
+40	GO:0099550	trans-synaptic signaling, modulating synaptic transmission	9.0	-0.4264420877237865	0.003895545097752765
+41	GO:0000780	condensed nuclear chromosome, centromeric region	12.0	-0.4252290345313601	0.004009565879958261
+42	GO:0043189	H4/H2A histone acetyltransferase complex	17.0	-0.42411642437973024	0.004116701122506335
+43	GO:0097368	establishment of Sertoli cell barrier	1.5	-0.4238364946746912	0.004144046895102382
+44	GO:0033561	regulation of water loss via skin	18.0	-0.4232558139534883	0.004201279209790364
+45	GO:0080182	histone H3-K4 trimethylation	11.0	-0.4222692036645525	0.0043001050698245075
+46	GO:2000809	positive regulation of synaptic vesicle clustering	4.0	-0.4219058401095022	0.004337010478679049
+47	GO:0042589	zymogen granule membrane	5.0	-0.4217092534582907	0.004357092101817896
+48	GO:0002162	dystroglycan binding	6.0	-0.4205926920402509	0.004472698231416534
+49	GO:0046477	glycosylceramide catabolic process	5.0	-0.4205778717406624	0.004474250523781544
+50	GO:0042588	zymogen granule	6.0	-0.4161409714888431	0.0049606592999550045

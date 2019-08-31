@@ -1,0 +1,4 @@
+Pair Number	Protein	Symbol	MicrobatProtein	PrairieVoleProtein	Ka/Ks	P-Value
+109	bromo adjacent homology domain containing 1	BAHD1	ENSMLUP00000016027	ENSMOCP00000023951	50.0	0.0178465
+235	cyclin dependent kinase 2	CDK2	ENSMLUP00000004290	ENSMOCP00000006069	3.15968	0.0789729
+265	N(alpha)-acetyltransferase 40, NatD catalytic subunit	NAA40	ENSMLUP00000011141	ENSMOCP00000015001	50.0	0.024978999999999998
